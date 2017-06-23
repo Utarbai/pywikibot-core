@@ -344,6 +344,7 @@ report_text = {
 random_sign = {
     'am': u'User:Beria/Signatures',
     'ar': u'Project:سجل الترحيب/توقيعات',
+    'ba': u'Ҡатнашыусы:Salamat_bot/Яңы',
     'da': u'Wikipedia:Velkommen/Signaturer',
     'en': u'Project:Welcome log/Sign',
     'fa': u'Project:سیاهه خوشامد/امضاها',
